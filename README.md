@@ -1,3 +1,7 @@
+
+<a href="https://app.daily.dev/philldevcoder"><img src="https://api.daily.dev/devcards/v2/8w8fta2GIpYd6gcIM1X6M.png?type=wide&r=zhb" width="652" alt="Phillip Ssempeebwa's Dev Card"/></a>
+
+
 - 👋 Hi, I’m @PhillDev-coder256
 - 👀 I’m interested in Software Development and Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Image Classification, Analysis, detection and Processing
