@@ -7,11 +7,9 @@
 - 💞️ I’m looking to collaborate on solving real world problems
 - 📫 How to reach me @phillipphilcourts540@gmail.com
 
-# Hay there... ✨😄✨
-
 Welcome to my GitHub profile! 😁
 
-My name is **Arief Purnama Muharram** and I absolutely love everything about programming, especially **mobile development**! I'm deeply passionate about providing **technological solutions to medical problems**. If you have questions or would like to collaborate, feel free to reach out! 😁💬
+My name is **Phillip Ssempeebwa** and I absolutely love everything about programming, especially **mobile development**! I'm deeply passionate about providing **technological solutions to medical problems**. If you have questions or would like to collaborate, feel free to reach out! 😁💬
 
 ---
 
@@ -26,21 +24,35 @@ My name is **Arief Purnama Muharram** and I absolutely love everything about pro
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhillDev-coder256&show_icons=true&theme=radical)
 
 ---
 
 ## 🛠️ Projects I'm Working On
 
-- **DiabetesLab Project**
-- **DM EduCorner**
-- **DM NutriAssist**
-- **DM MDAssist**
-- **Kampus Sehatku**
-- **CerviCam**
-- **PT. Rezeki Lautan Abadi e-IKM**
-- **BEM IKM FKUI**
-- **PRISM Dept. IKA FKUI-RSCM Metabolik Endokrin**
+**MelodyNet-AI-Music-Composer**
+
+    Description: A Python project that uses LSTM networks to generate LoFi music from MIDI data.
+    Technologies: Python, Jupyter Notebook
+    Highlights: Focuses on machine learning for music composition
+
+**Face-Recognition-System**
+
+    Description: An efficient facial recognition system for real-time identification, with features for data collection, model training, and remote monitoring.
+    Technologies: Python
+    Highlights: Promotes security and personalized user experiences.
+    
+**Understanding-Machine-Learning-Frameworks**
+
+    Description: Step-by-step code labs for popular machine learning frameworks: TensorFlow, PyTorch, scikit-learn, and Keras.
+    Technologies: Jupyter Notebook
+    Highlights: Great resource for learning ML frameworks.
+
+**hiv_drug_resistance_final**
+
+    Description: Final repository for HIV drug resistance analysis.
+    Technologies: JavaScript
+    Highlights: A critical medical-related project with a focus on drug resistance data
 
 ---
 
@@ -62,6 +74,8 @@ My name is **Arief Purnama Muharram** and I absolutely love everything about pro
 - **iOS**
 - **Bootstrap**
 - **Laravel**
+- **Django**
+- **React**
 
 ---
 
@@ -99,11 +113,11 @@ My name is **Arief Purnama Muharram** and I absolutely love everything about pro
 
 ## 📞 Contact Me
 
-- **Gmail**: [your.email@gmail.com](mailto:your.email@gmail.com)
-- **Facebook**: [YourProfile](https://facebook.com)
-- **Instagram**: [YourProfile](https://instagram.com)
-- **LinkedIn**: [YourProfile](https://linkedin.com)
-- **Twitter**: [YourProfile](https://twitter.com)
+- **Gmail**: [phillipphilcourts540@gmail.com](mailto:phillipphilcourts540@gmail.com)
+- **Facebook**: [@philldevcoder](https://facebook.com/philldevcoder)
+- **Instagram**: [philldevcoder](https://instagram.com/philldevcoder)
+- **LinkedIn**: [philldevcoder](https://linkedin.com/philldevcoder)
+- **Twitter**: [philldevcoder](https://twitter.com/philldevcoder)
 
 ---
 
